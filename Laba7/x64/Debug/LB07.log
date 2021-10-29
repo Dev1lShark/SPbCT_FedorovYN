@@ -1,0 +1,5 @@
+﻿  LB07.cpp
+C:\Users\79291\Desktop\laboratory-work-07-master\LB07.cpp(33,16): warning C4101: n: неиспользованная локальная переменная
+C:\Users\79291\Desktop\laboratory-work-07-master\LB07.cpp(36,18): warning C4101: error: неиспользованная локальная переменная
+C:\Users\79291\Desktop\laboratory-work-07-master\LB07.cpp(56,16): warning C4101: g: неиспользованная локальная переменная
+  LB07.vcxproj -> C:\Users\79291\Desktop\laboratory-work-07-master\x64\Debug\LB07.exe

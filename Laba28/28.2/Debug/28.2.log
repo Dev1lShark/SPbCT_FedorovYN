@@ -1,0 +1,3 @@
+﻿  28.2.cpp
+C:\Users\Chuchik\source\repos\28.2\28.2.cpp(8,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  28.2.vcxproj -> C:\Users\Chuchik\source\repos\28.2\Debug\28.2.exe

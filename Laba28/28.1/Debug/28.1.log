@@ -1,0 +1,7 @@
+﻿  28.1.cpp
+C:\Users\Chuchik\source\repos\28.1\28.1.cpp(2,1): warning C4005: UNICODE: изменение макроопределения
+C:\Users\Chuchik\source\repos\28.1\28.1.cpp : message : см. предыдущее определение "UNICODE"
+C:\Users\Chuchik\source\repos\28.1\28.1.cpp(4,1): warning C4005: _UNICODE: изменение макроопределения
+C:\Users\Chuchik\source\repos\28.1\28.1.cpp : message : см. предыдущее определение "_UNICODE"
+C:\Users\Chuchik\source\repos\28.1\28.1.cpp(9,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  28.1.vcxproj -> C:\Users\Chuchik\source\repos\28.1\Debug\28.1.exe

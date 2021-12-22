@@ -1,7 +1,0 @@
-﻿  ExtraLib.cpp
-C:\Users\79291\source\repos\ExtraLib\ExtraLib\ExLib.h(13,23): error C3646: BufW: неизвестный спецификатор переопределения
-C:\Users\79291\source\repos\ExtraLib\ExtraLib\ExLib.h(13,28): error C2065: string: необъявленный идентификатор
-C:\Users\79291\source\repos\ExtraLib\ExtraLib\ExLib.h(13,35): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "buffer"
-C:\Users\79291\source\repos\ExtraLib\ExtraLib\ExLib.h(13,49): error C2238: непредвиденные лексемы перед ";"
-C:\Users\79291\source\repos\ExtraLib\ExtraLib\ExtraLib.cpp(32,20): error C2039: "BufW": не является членом "ExLib::Header".
-C:\Users\79291\source\repos\ExtraLib\ExtraLib\ExLib.h(6): message : см. объявление "ExLib::Header"

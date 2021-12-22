@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+ExtraLib.lib(ExtraLib.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  PracticeWin.vcxproj -> C:\Users\yaros\source\repos\ExtraLib\x64\Debug\PracticeWin.exe

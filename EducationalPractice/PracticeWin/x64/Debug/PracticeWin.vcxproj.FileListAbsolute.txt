@@ -1,0 +1,3 @@
+C:\Users\yaros\source\repos\ExtraLib\PracticeWin\x64\Debug\PracticeWin.vcxproj.AssemblyReference.cache
+C:\Users\yaros\source\repos\ExtraLib\PracticeWin\x64\Debug\PracticeWin.MyForm.resources
+C:\Users\yaros\source\repos\ExtraLib\PracticeWin\x64\Debug\PracticeWin.vcxproj.GenerateResource.cache

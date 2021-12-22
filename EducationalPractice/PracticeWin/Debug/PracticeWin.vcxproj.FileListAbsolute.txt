@@ -1,0 +1,3 @@
+C:\Users\79291\source\repos\ExtraLib\PracticeWin\Debug\PracticeWin.vcxproj.AssemblyReference.cache
+C:\Users\79291\source\repos\ExtraLib\PracticeWin\Debug\PracticeWin.MyForm.resources
+C:\Users\79291\source\repos\ExtraLib\PracticeWin\Debug\PracticeWin.vcxproj.GenerateResource.cache
